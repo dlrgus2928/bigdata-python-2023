@@ -1,4 +1,4 @@
-# 리스트
+# 리스트 mutable
 import datetime
 
 value = datetime.datetime.now()
