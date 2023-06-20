@@ -4,7 +4,7 @@ a = True
 b = False
 
 print(a == b)
-print (10 > 3)
+print(10 > 3)
 
 print(int(True)) # True == 1
 print(int(False)) # False == 1
