@@ -40,3 +40,10 @@
     - pandas
     - numpy
     - matplotlib
+
+## 6일차
+- 파이썬 데이터분석
+    - pandas
+    - 
+    - numpy
+    - matplotlib
