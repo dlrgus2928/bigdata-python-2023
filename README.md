@@ -43,7 +43,10 @@
 
 ## 6일차
 - 파이썬 데이터분석
-    - pandas
-    - 
-    - numpy
-    - matplotlib
+    - pandas 기본
+
+## 7일차
+- 파이썬 데이터분석    
+    - numpy 기본
+    - matplotlib 기본
+    - selenium
