@@ -50,3 +50,13 @@
     - numpy 기본
     - matplotlib 기본
     - selenium
+
+## 8일차
+- 파이썬 데이터분석
+    - selenium 
+    - beatifulSoup
+    - 예제
+        - 회사 웹사이트 이미지 다운로드
+        - 멜론 차트 노래순의 csv 저장
+        - 벅스 인기차트 상위곡 100 csv 저장
+    - 코로나 중국 관광객
