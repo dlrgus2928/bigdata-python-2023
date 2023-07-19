@@ -1,3 +1,4 @@
+# 크롬브라우저로 네이버 띄우기
 import webbrowser
 
 print(webbrowser.get())

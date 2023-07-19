@@ -4,16 +4,16 @@ class Calculator:
         self.result = 0
 
     def add(self, num):
-        self.result +=num
+        self.result += num
         return self.result
     
     def sub(self, num):
-        self.result -=num
+        self.result -= num
         return self.result
     
-    def munl(self, num):
-        pass
-    
+    def mul(self, num):
+        pass    
+
 mycalc = Calculator() # java와 달리 new 없음
 print(mycalc.add(40))
 print(mycalc.add(50))

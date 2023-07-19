@@ -11,10 +11,10 @@ print(l1)
 
 # del t1[0] # 예외발생
 print(t1[2])
-print(t1[:3]) #  마지막 값의 인덱스 + 1까지
+print(t1[:3]) # 마지막 값의 인덱스 + 1까지 
 
 t2 = (5, 6, 7)
-t3 = t1 + t2 # 새로운 튜플을 최초에 만드는 연산은 가능
+t3 = t1 + t2  # 새로운 튜플을 최초에 만드는 연산은 가능
 print(t3)
 
 def calc(x, y):
@@ -27,7 +27,7 @@ def calc(x, y):
     return (add, minus, mult, div)
 
 # 값을 한꺼번에 여러개 리턴받을 수 있음 (java, c#, python 동일)
-res1, res2, res3, res4 = calc(5, 8)
+(res1, res2, res3, res4) = calc(5, 8)
 
 print(res1, res2, res3, res4)
 
